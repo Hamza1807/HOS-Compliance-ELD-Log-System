@@ -1,0 +1,7 @@
+Django==4.2.7
+djangorestframework==3.14.0
+django-cors-headers==4.3.0
+requests==2.31.0
+python-decouple==3.8
+reportlab==4.0.7
+svgwrite==1.4.3
